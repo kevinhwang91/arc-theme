@@ -46,5 +46,6 @@
     <file alias="process-working.svg">icons/process-working.svg</file>
     <file alias="gnome-shell.css">gnome-shell-dark.css</file>
     <file>pad-osd.css</file>
+    <file>background.jpeg</file>
   </gresource>
 </gresources>
