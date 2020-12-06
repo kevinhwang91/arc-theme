@@ -804,7 +804,7 @@ StScrollBar {
 //
 #panel {
   font-weight: bold;
-  @include fontsize($font-size * 0.7);
+  @include fontsize($font-size * 0.8);
   font-feature-settings: "tnum";
   height: 2.1em;
   min-height: 26px;
@@ -907,7 +907,7 @@ StScrollBar {
       & > .system-status-icon { icon-shadow: none; }
     }
 
-    .system-status-icon { icon-size: 16px; padding: 0 4px; }
+    .system-status-icon { icon-size: 20px; padding: 0 4px; }
 
     &.clock-display {
       // Move highlight from .panel-button to .clock
